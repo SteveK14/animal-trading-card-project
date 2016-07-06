@@ -1,0 +1,40 @@
+body {
+	border: 1px solid #d9d9d9;
+	box-shadow: 7px 7px #f2f2f2;
+	font-size: 90%;
+	padding: 0 10px 10px 10px;
+	width: 300px;
+}
+
+h3 {
+	background-color: #ffb366;
+	border: .5px solid #ffb366;
+	border-radius: 10px;
+	text-align: center;
+}
+
+ul {
+	list-style-type: none;
+	margin-left: 0;
+	padding-left: 0;
+	text-align: left;
+}
+
+.content-border {
+	background-color: #ffb366;
+	border: 1px solid #d9d9d9;
+	border-radius: 4px;
+	padding: 5px 10px 10px 10px;
+}
+
+.fact {
+	font-style: italic;
+}
+
+.list-topic {
+	font-weight: bold;
+}
+
+.picture {
+	padding-bottom: 10px;
+}
